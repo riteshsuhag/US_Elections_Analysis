@@ -1,2 +1,2 @@
-streamlit==1.8.1
+streamlit
 Pillow==8.0.1
